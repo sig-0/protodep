@@ -9,10 +9,10 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/gobwas/glob"
-	"github.com/stormcat24/protodep/pkg/auth"
-	"github.com/stormcat24/protodep/pkg/config"
-	"github.com/stormcat24/protodep/pkg/logger"
-	"github.com/stormcat24/protodep/pkg/repository"
+	"github.com/sig-0/protodep/pkg/auth"
+	"github.com/sig-0/protodep/pkg/config"
+	"github.com/sig-0/protodep/pkg/logger"
+	"github.com/sig-0/protodep/pkg/repository"
 )
 
 type protoResource struct {

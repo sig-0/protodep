@@ -7,8 +7,8 @@ import (
 	"github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 
-	"github.com/stormcat24/protodep/pkg/logger"
-	"github.com/stormcat24/protodep/pkg/resolver"
+	"github.com/sig-0/protodep/pkg/logger"
+	"github.com/sig-0/protodep/pkg/resolver"
 )
 
 var upCmd = &cobra.Command{

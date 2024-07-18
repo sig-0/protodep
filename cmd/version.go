@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/spf13/cobra"
 
-	"github.com/stormcat24/protodep/version"
+	"github.com/sig-0/protodep/version"
 )
 
 const art = `
